@@ -1,0 +1,5 @@
+#!/bin/sh
+
+swig -module retroshare -v -Wall -c++ -java rsdht.h
+
+
