@@ -215,6 +215,193 @@ static void SWIGUNUSED SWIG_JavaThrowException(JNIEnv *jenv, SWIG_JavaExceptionC
 extern "C" {
 #endif
 
+SWIGEXPORT void JNICALL Java_net_retroshare_RetroshareJNI_delete_1RsGxsNotify(JNIEnv *jenv, jclass jcls, jlong jarg1) {
+  RsGxsNotify *arg1 = (RsGxsNotify *) 0 ;
+  
+  (void)jenv;
+  (void)jcls;
+  arg1 = *(RsGxsNotify **)&jarg1; 
+  delete arg1;
+}
+
+
+SWIGEXPORT jint JNICALL Java_net_retroshare_RetroshareJNI_RsGxsNotify_1getType(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_) {
+  jint jresult = 0 ;
+  RsGxsNotify *arg1 = (RsGxsNotify *) 0 ;
+  RsGxsNotify::NotifyType result;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsGxsNotify **)&jarg1; 
+  result = (RsGxsNotify::NotifyType)(arg1)->getType();
+  jresult = (jint)result; 
+  return jresult;
+}
+
+
+SWIGEXPORT jlong JNICALL Java_net_retroshare_RetroshareJNI_new_1RsGxsGroupChange(JNIEnv *jenv, jclass jcls, jint jarg1) {
+  jlong jresult = 0 ;
+  RsGxsNotify::NotifyType arg1 ;
+  RsGxsGroupChange *result = 0 ;
+  
+  (void)jenv;
+  (void)jcls;
+  arg1 = (RsGxsNotify::NotifyType)jarg1; 
+  result = (RsGxsGroupChange *)new RsGxsGroupChange(arg1);
+  *(RsGxsGroupChange **)&jresult = result; 
+  return jresult;
+}
+
+
+SWIGEXPORT void JNICALL Java_net_retroshare_RetroshareJNI_RsGxsGroupChange_1mGrpIdList_1set(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_, jlong jarg2) {
+  RsGxsGroupChange *arg1 = (RsGxsGroupChange *) 0 ;
+  std::list< RsGxsGroupId > arg2 ;
+  std::list< RsGxsGroupId > *argp2 ;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsGxsGroupChange **)&jarg1; 
+  argp2 = *(std::list< RsGxsGroupId > **)&jarg2; 
+  if (!argp2) {
+    SWIG_JavaThrowException(jenv, SWIG_JavaNullPointerException, "Attempt to dereference null std::list< RsGxsGroupId >");
+    return ;
+  }
+  arg2 = *argp2; 
+  if (arg1) (arg1)->mGrpIdList = arg2;
+}
+
+
+SWIGEXPORT jlong JNICALL Java_net_retroshare_RetroshareJNI_RsGxsGroupChange_1mGrpIdList_1get(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_) {
+  jlong jresult = 0 ;
+  RsGxsGroupChange *arg1 = (RsGxsGroupChange *) 0 ;
+  std::list< RsGxsGroupId > result;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsGxsGroupChange **)&jarg1; 
+  result =  ((arg1)->mGrpIdList);
+  *(std::list< RsGxsGroupId > **)&jresult = new std::list< RsGxsGroupId >((const std::list< RsGxsGroupId > &)result); 
+  return jresult;
+}
+
+
+SWIGEXPORT jint JNICALL Java_net_retroshare_RetroshareJNI_RsGxsGroupChange_1getType(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_) {
+  jint jresult = 0 ;
+  RsGxsGroupChange *arg1 = (RsGxsGroupChange *) 0 ;
+  RsGxsNotify::NotifyType result;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsGxsGroupChange **)&jarg1; 
+  result = (RsGxsNotify::NotifyType)(arg1)->getType();
+  jresult = (jint)result; 
+  return jresult;
+}
+
+
+SWIGEXPORT void JNICALL Java_net_retroshare_RetroshareJNI_delete_1RsGxsGroupChange(JNIEnv *jenv, jclass jcls, jlong jarg1) {
+  RsGxsGroupChange *arg1 = (RsGxsGroupChange *) 0 ;
+  
+  (void)jenv;
+  (void)jcls;
+  arg1 = *(RsGxsGroupChange **)&jarg1; 
+  delete arg1;
+}
+
+
+SWIGEXPORT jlong JNICALL Java_net_retroshare_RetroshareJNI_new_1RsGxsMsgChange(JNIEnv *jenv, jclass jcls, jint jarg1) {
+  jlong jresult = 0 ;
+  RsGxsNotify::NotifyType arg1 ;
+  RsGxsMsgChange *result = 0 ;
+  
+  (void)jenv;
+  (void)jcls;
+  arg1 = (RsGxsNotify::NotifyType)jarg1; 
+  result = (RsGxsMsgChange *)new RsGxsMsgChange(arg1);
+  *(RsGxsMsgChange **)&jresult = result; 
+  return jresult;
+}
+
+
+SWIGEXPORT void JNICALL Java_net_retroshare_RetroshareJNI_RsGxsMsgChange_1msgChangeMap_1set(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_, jlong jarg2) {
+  RsGxsMsgChange *arg1 = (RsGxsMsgChange *) 0 ;
+  std::map< RsGxsGroupId,std::vector< RsGxsMessageId > > arg2 ;
+  std::map< RsGxsGroupId,std::vector< RsGxsMessageId > > *argp2 ;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsGxsMsgChange **)&jarg1; 
+  argp2 = *(std::map< RsGxsGroupId,std::vector< RsGxsMessageId > > **)&jarg2; 
+  if (!argp2) {
+    SWIG_JavaThrowException(jenv, SWIG_JavaNullPointerException, "Attempt to dereference null std::map< RsGxsGroupId,std::vector< RsGxsMessageId > >");
+    return ;
+  }
+  arg2 = *argp2; 
+  if (arg1) (arg1)->msgChangeMap = arg2;
+}
+
+
+SWIGEXPORT jlong JNICALL Java_net_retroshare_RetroshareJNI_RsGxsMsgChange_1msgChangeMap_1get(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_) {
+  jlong jresult = 0 ;
+  RsGxsMsgChange *arg1 = (RsGxsMsgChange *) 0 ;
+  std::map< RsGxsGroupId,std::vector< RsGxsMessageId > > result;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsGxsMsgChange **)&jarg1; 
+  result =  ((arg1)->msgChangeMap);
+  *(std::map< RsGxsGroupId,std::vector< RsGxsMessageId > > **)&jresult = new std::map< RsGxsGroupId,std::vector< RsGxsMessageId > >((const std::map< RsGxsGroupId,std::vector< RsGxsMessageId > > &)result); 
+  return jresult;
+}
+
+
+SWIGEXPORT jint JNICALL Java_net_retroshare_RetroshareJNI_RsGxsMsgChange_1getType(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_) {
+  jint jresult = 0 ;
+  RsGxsMsgChange *arg1 = (RsGxsMsgChange *) 0 ;
+  RsGxsNotify::NotifyType result;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsGxsMsgChange **)&jarg1; 
+  result = (RsGxsNotify::NotifyType)(arg1)->getType();
+  jresult = (jint)result; 
+  return jresult;
+}
+
+
+SWIGEXPORT void JNICALL Java_net_retroshare_RetroshareJNI_delete_1RsGxsMsgChange(JNIEnv *jenv, jclass jcls, jlong jarg1) {
+  RsGxsMsgChange *arg1 = (RsGxsMsgChange *) 0 ;
+  
+  (void)jenv;
+  (void)jcls;
+  arg1 = *(RsGxsMsgChange **)&jarg1; 
+  delete arg1;
+}
+
+
+SWIGEXPORT jlong JNICALL Java_net_retroshare_RetroshareJNI_RsGxsGroupChange_1SWIGUpcast(JNIEnv *jenv, jclass jcls, jlong jarg1) {
+    jlong baseptr = 0;
+    (void)jenv;
+    (void)jcls;
+    *(RsGxsNotify **)&baseptr = *(RsGxsGroupChange **)&jarg1;
+    return baseptr;
+}
+
+SWIGEXPORT jlong JNICALL Java_net_retroshare_RetroshareJNI_RsGxsMsgChange_1SWIGUpcast(JNIEnv *jenv, jclass jcls, jlong jarg1) {
+    jlong baseptr = 0;
+    (void)jenv;
+    (void)jcls;
+    *(RsGxsNotify **)&baseptr = *(RsGxsMsgChange **)&jarg1;
+    return baseptr;
+}
+
 #ifdef __cplusplus
 }
 #endif

@@ -215,6 +215,137 @@ static void SWIGUNUSED SWIG_JavaThrowException(JNIEnv *jenv, SWIG_JavaExceptionC
 extern "C" {
 #endif
 
+SWIGEXPORT void JNICALL Java_net_retroshare_RetroshareJNI_rsDisc_1set(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_) {
+  RsDisc *arg1 = (RsDisc *) 0 ;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsDisc **)&jarg1; 
+  rsDisc = arg1;
+}
+
+
+SWIGEXPORT jlong JNICALL Java_net_retroshare_RetroshareJNI_rsDisc_1get(JNIEnv *jenv, jclass jcls) {
+  jlong jresult = 0 ;
+  RsDisc *result = 0 ;
+  
+  (void)jenv;
+  (void)jcls;
+  result = (RsDisc *)rsDisc;
+  *(RsDisc **)&jresult = result; 
+  return jresult;
+}
+
+
+SWIGEXPORT void JNICALL Java_net_retroshare_RetroshareJNI_delete_1RsDisc(JNIEnv *jenv, jclass jcls, jlong jarg1) {
+  RsDisc *arg1 = (RsDisc *) 0 ;
+  
+  (void)jenv;
+  (void)jcls;
+  arg1 = *(RsDisc **)&jarg1; 
+  delete arg1;
+}
+
+
+SWIGEXPORT jboolean JNICALL Java_net_retroshare_RetroshareJNI_RsDisc_1getDiscFriends(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_, jlong jarg2, jlong jarg3) {
+  jboolean jresult = 0 ;
+  RsDisc *arg1 = (RsDisc *) 0 ;
+  std::string arg2 ;
+  std::list< std::string > *arg3 = 0 ;
+  std::string *argp2 ;
+  bool result;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsDisc **)&jarg1; 
+  argp2 = *(std::string **)&jarg2; 
+  if (!argp2) {
+    SWIG_JavaThrowException(jenv, SWIG_JavaNullPointerException, "Attempt to dereference null std::string");
+    return 0;
+  }
+  arg2 = *argp2; 
+  arg3 = *(std::list< std::string > **)&jarg3;
+  if (!arg3) {
+    SWIG_JavaThrowException(jenv, SWIG_JavaNullPointerException, "std::list< std::string > & reference is null");
+    return 0;
+  } 
+  result = (bool)(arg1)->getDiscFriends(arg2,*arg3);
+  jresult = (jboolean)result; 
+  return jresult;
+}
+
+
+SWIGEXPORT jboolean JNICALL Java_net_retroshare_RetroshareJNI_RsDisc_1getDiscGPGFriends(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_, jlong jarg2, jlong jarg3) {
+  jboolean jresult = 0 ;
+  RsDisc *arg1 = (RsDisc *) 0 ;
+  std::string arg2 ;
+  std::list< std::string > *arg3 = 0 ;
+  std::string *argp2 ;
+  bool result;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsDisc **)&jarg1; 
+  argp2 = *(std::string **)&jarg2; 
+  if (!argp2) {
+    SWIG_JavaThrowException(jenv, SWIG_JavaNullPointerException, "Attempt to dereference null std::string");
+    return 0;
+  }
+  arg2 = *argp2; 
+  arg3 = *(std::list< std::string > **)&jarg3;
+  if (!arg3) {
+    SWIG_JavaThrowException(jenv, SWIG_JavaNullPointerException, "std::list< std::string > & reference is null");
+    return 0;
+  } 
+  result = (bool)(arg1)->getDiscGPGFriends(arg2,*arg3);
+  jresult = (jboolean)result; 
+  return jresult;
+}
+
+
+SWIGEXPORT jboolean JNICALL Java_net_retroshare_RetroshareJNI_RsDisc_1getDiscVersions(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_, jlong jarg2) {
+  jboolean jresult = 0 ;
+  RsDisc *arg1 = (RsDisc *) 0 ;
+  std::map< std::string,std::string > *arg2 = 0 ;
+  bool result;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsDisc **)&jarg1; 
+  arg2 = *(std::map< std::string,std::string > **)&jarg2;
+  if (!arg2) {
+    SWIG_JavaThrowException(jenv, SWIG_JavaNullPointerException, "std::map< std::string,std::string > & reference is null");
+    return 0;
+  } 
+  result = (bool)(arg1)->getDiscVersions(*arg2);
+  jresult = (jboolean)result; 
+  return jresult;
+}
+
+
+SWIGEXPORT jboolean JNICALL Java_net_retroshare_RetroshareJNI_RsDisc_1getWaitingDiscCount(JNIEnv *jenv, jclass jcls, jlong jarg1, jobject jarg1_, jlong jarg2, jlong jarg3) {
+  jboolean jresult = 0 ;
+  RsDisc *arg1 = (RsDisc *) 0 ;
+  unsigned int *arg2 = (unsigned int *) 0 ;
+  unsigned int *arg3 = (unsigned int *) 0 ;
+  bool result;
+  
+  (void)jenv;
+  (void)jcls;
+  (void)jarg1_;
+  arg1 = *(RsDisc **)&jarg1; 
+  arg2 = *(unsigned int **)&jarg2; 
+  arg3 = *(unsigned int **)&jarg3; 
+  result = (bool)(arg1)->getWaitingDiscCount(arg2,arg3);
+  jresult = (jboolean)result; 
+  return jresult;
+}
+
+
 #ifdef __cplusplus
 }
 #endif
