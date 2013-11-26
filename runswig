@@ -1,0 +1,6 @@
+#!/bin/sh
+
+swig -package net.retroshare -module Retroshare -debug-classes -v -Wall -c++ -java -outdir java/net/retroshare -Iretroshare retroshare/rsdht.h
+
+
+
