@@ -1,6 +1,6 @@
 #!/bin/sh
 
-swig -ignoremissing -includeall -package net.retroshare -module Retroshare -debug-classes -v -Wall -c++ -java -outdir java/net/retroshare -Iretroshare libretroshare.h
+swig -ignoremissing -includeall -package net.retroshare -module Retroshare -debug-classes -v -Wall -c++ -java -outdir java/net/retroshare libretroshare-java.i
 
 
 

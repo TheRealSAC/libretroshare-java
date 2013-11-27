@@ -111,8 +111,13 @@ class GroupSetFlagReq : public GxsRequest
 {
 public:
 
+#ifdef SWIG
+	static uint32_t FLAG_SUBSCRIBE;
+	static uint32_t FLAG_STATUS;
+#else
 	const static uint32_t FLAG_SUBSCRIBE;
 	const static uint32_t FLAG_STATUS;
+#endif
 
 	uint8_t type;
 	uint32_t flag;
@@ -125,7 +130,11 @@ class MessageSetFlagReq : public GxsRequest
 {
 public:
 
+#ifdef SWIG
+	static uint32_t FLAG_STATUS;
+#else
 	const static uint32_t FLAG_STATUS;
+#endif
 
 	uint8_t type;
 	uint32_t flag;

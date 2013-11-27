@@ -148,7 +148,8 @@ class SearchRequest
  *     (TODO)
  */
 
-const FileStorageFlags DIR_FLAGS_PARENT                 	( 0x0001 );
+#ifndef SWIG
+const FileStorageFlags DIR_FLAGS_PARENT(0x0001);
 const FileStorageFlags DIR_FLAGS_DETAILS                	( 0x0002 );	// apparently unused
 const FileStorageFlags DIR_FLAGS_CHILDREN               	( 0x0004 );	// apparently unused
 
@@ -161,6 +162,7 @@ const FileStorageFlags DIR_FLAGS_PERMISSIONS_MASK     	( DIR_FLAGS_NETWORK_WIDE_
 
 const FileStorageFlags DIR_FLAGS_LOCAL                  	( 0x1000 );
 const FileStorageFlags DIR_FLAGS_REMOTE                 	( 0x2000 );
+#endif
 
 class FileInfo
 {
