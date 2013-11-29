@@ -1,5 +1,7 @@
+#ifndef SWIG
 /*
- * libretroshare/src/gxp: gxp_apps.h
+
+* libretroshare/src/gxp: gxp_apps.h
  *
  * General Exchange Protocol interface for RetroShare.
  *
@@ -80,3 +82,4 @@ class rsAcadee: public rsGmxp
 #endif /* RS_GXP_H */
 
 
+#endif

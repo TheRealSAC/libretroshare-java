@@ -1,5 +1,8 @@
+#ifndef SWIG
+
 /*
- * libretroshare/src/gxp: gxp.h
+
+* libretroshare/src/gxp: gxp.h
  *
  * General Exchange Protocol interface for RetroShare.
  *
@@ -212,3 +215,4 @@ class p3gmxp
 #endif /* RS_GMXP_H */
 
 
+#endif

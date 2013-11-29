@@ -1,3 +1,4 @@
+#ifndef SWIG
 /*
  * libretroshare/src/gxp: gxp_apps.h
  *
@@ -383,3 +384,4 @@ class gxp::Paper
 #endif /* RS_GXP_H */
 
 
+#endif

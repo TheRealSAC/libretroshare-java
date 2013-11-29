@@ -1,4 +1,6 @@
 
+#ifndef SWIG
+
 #include "gxp_service.h"
 
 class db_wire
@@ -48,3 +50,4 @@ class db_wire
 };
 
 
+#endif

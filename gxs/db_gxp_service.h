@@ -1,4 +1,4 @@
-
+#ifndef SWIG
 /* Generalised Service Base Class.
  * The base class interfaces with gixp, disk, net services.
  */
@@ -102,3 +102,4 @@ class gxp_service
 
 
 
+#endif
