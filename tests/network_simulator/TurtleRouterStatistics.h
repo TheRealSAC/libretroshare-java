@@ -21,6 +21,8 @@
 
 #pragma once
 
+#ifndef SWIG
+
 #include <QPoint>
 #include <retroshare/rsturtle.h>
 #include "ui_TurtleRouterStatistics.h"
@@ -72,3 +74,4 @@ class TurtleRouterStatisticsWidget:  public QWidget
 		int maxWidth,maxHeight ;
 };
 
+#endif

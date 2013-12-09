@@ -1,6 +1,8 @@
 #include <QPoint>
 #include <QGLViewer/qglviewer.h>
 
+#ifndef SWIG
+
 // The network simulator GUI has the following functionalities:
 //
 // 1 - show the network graph
@@ -77,3 +79,4 @@ class NetworkViewer: public QGLViewer
 		QAction *action_ProvideHash ;
 };
 
+#endif

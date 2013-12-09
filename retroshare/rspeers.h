@@ -68,6 +68,7 @@ const uint32_t RS_PEER_STATE_UNREACHABLE= 0x0008;
 
 // Service permission flags. 
 //
+#ifndef SWIG
 const ServicePermissionFlags RS_SERVICE_PERM_NONE       ( 0x00000000 ) ;	
 const ServicePermissionFlags RS_SERVICE_PERM_TURTLE     ( 0x00000001 ) ;	
 const ServicePermissionFlags RS_SERVICE_PERM_DISCOVERY  ( 0x00000002 ) ;
@@ -76,6 +77,7 @@ const ServicePermissionFlags RS_SERVICE_PERM_DIRECT_DL  ( 0x00000008 ) ;
 const ServicePermissionFlags RS_SERVICE_PERM_ALL        =  RS_SERVICE_PERM_TURTLE  | RS_SERVICE_PERM_DISCOVERY 
 																			| RS_SERVICE_PERM_DISTRIB | RS_SERVICE_PERM_DIRECT_DL;
 // ...
+#endif
 
 /* Connect state */
 const uint32_t RS_PEER_CONNECTSTATE_OFFLINE           = 0;

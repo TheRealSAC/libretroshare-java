@@ -1,5 +1,7 @@
 #pragma once
 
+#ifndef SWIG
+
 #include <QApplication>
 #include <QWidget>
 
@@ -38,3 +40,4 @@ class RsAutoUpdatePage: public QWidget
 		static bool _locked ;
 };
 
+#endif

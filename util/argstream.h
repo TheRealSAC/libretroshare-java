@@ -1,4 +1,4 @@
-/* Copyright (C) 2004 Xavier Décoret <Xavier.Decoret@imag.fr>
+/* Copyright (C) 2004 Xavier Dï¿½coret <Xavier.Decoret@imag.fr>
  *
  * argstream is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Library General Public
@@ -65,7 +65,9 @@ namespace
 						const char *valueName,
 						const char* desc,
 						bool mandatory);
+#ifndef SWIG
 				friend argstream& operator>><>(argstream& s,const ValueHolder<T>& v);
+#endif
 				std::string name() const;
 				std::string description() const;
 			private:

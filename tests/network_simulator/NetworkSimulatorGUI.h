@@ -1,5 +1,7 @@
 #include "ui_NetworkSimulatorGUI.h"
 
+#ifndef SWIG
+
 class TurtleRouterStatistics ;
 class NetworkViewer ;
 class Network ;
@@ -24,3 +26,4 @@ class NetworkSimulatorGUI: public QMainWindow, public Ui::NetworkSimulatorGUI
 		int tickTimerId ;
 };
 
+#endif

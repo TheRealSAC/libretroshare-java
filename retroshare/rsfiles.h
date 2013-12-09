@@ -65,6 +65,7 @@ const uint32_t RS_FILE_PEER_OFFLINE 	 = 0x00002000;
 
 // Flags used when requesting info about transfers, mostly to filter out the result.
 //
+#ifndef SWIG
 const FileSearchFlags RS_FILE_HINTS_CACHE	 		       	 ( 0x00000001 );
 const FileSearchFlags RS_FILE_HINTS_EXTRA	 		       	 ( 0x00000002 );
 const FileSearchFlags RS_FILE_HINTS_LOCAL	 		       	 ( 0x00000004 );
@@ -93,6 +94,7 @@ const TransferRequestFlags RS_FILE_REQ_NO_SEARCH           ( 0x02000000 );	// di
 /* Callback Codes */
 
 const uint32_t RS_FILE_EXTRA_DELETE	 = 0x0010;
+#endif
 
 struct SharedDirInfo
 {
