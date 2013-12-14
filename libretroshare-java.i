@@ -1,4 +1,9 @@
-%include "/usr/include/stdint.h"
+%module libretroshare
+
+%include "std_string.i"
+
+using std::string;
+
 %include "./gxs/rsgxsnetutils.h"
 %include "./gxs/db_gxp_apps.h"
 %include "./gxs/rsgroups.h"

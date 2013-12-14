@@ -1,0 +1,910 @@
+./gxs/rsgxsnetutils.h:29: Warning 201: Unable to find 'stdlib.h'
+retroshare/rsgxsifacetypes.h:11: Warning 201: Unable to find 'map'
+retroshare/rsgxsifacetypes.h:12: Warning 201: Unable to find 'vector'
+retroshare/rsgxsifacetypes.h:13: Warning 201: Unable to find 'string'
+retroshare/rsgxsifacetypes.h:14: Warning 201: Unable to find 'inttypes.h'
+pqi/pqimonitor.h:34: Warning 201: Unable to find 'inttypes.h'
+pqi/pqimonitor.h:35: Warning 201: Unable to find 'string'
+pqi/pqimonitor.h:36: Warning 201: Unable to find 'list'
+util/rsnet.h:29: Warning 201: Unable to find 'inttypes.h'
+util/rsnet.h:30: Warning 201: Unable to find 'stdlib.h'
+util/rsnet.h:31: Warning 201: Unable to find 'string.h'
+util/rsnet.h:32: Warning 201: Unable to find 'iostream'
+util/rsnet.h:37: Warning 201: Unable to find 'sys/types.h'
+util/rsnet.h:38: Warning 201: Unable to find 'sys/socket.h'
+util/rsnet.h:39: Warning 201: Unable to find 'netinet/in.h'
+util/rsnet.h:40: Warning 201: Unable to find 'arpa/inet.h'
+util/rsnet.h:42: Warning 201: Unable to find 'fcntl.h'
+util/rsnet.h:43: Warning 201: Unable to find 'errno.h'
+serialiser/rstlvaddrs.h:33: Warning 201: Unable to find 'map'
+serialiser/rstlvtypes.h:34: Warning 201: Unable to find 'string'
+serialiser/rstlvtypes.h:35: Warning 201: Unable to find 'list'
+serialiser/rstlvtypes.h:36: Warning 201: Unable to find 'stdlib.h'
+serialiser/rstlvtypes.h:37: Warning 201: Unable to find 'stdint.h'
+pqi/pqiassist.h:30: Warning 201: Unable to find 'string'
+pqi/pqiassist.h:31: Warning 201: Unable to find 'map'
+pqi/pqinetwork.h:35: Warning 201: Unable to find 'sys/types.h'
+pqi/pqinetwork.h:36: Warning 201: Unable to find 'sys/socket.h'
+pqi/pqinetwork.h:37: Warning 201: Unable to find 'netinet/in.h'
+pqi/pqinetwork.h:38: Warning 201: Unable to find 'arpa/inet.h'
+pqi/pqinetwork.h:40: Warning 201: Unable to find 'sys/poll.h'
+pqi/pqinetwork.h:43: Warning 201: Unable to find 'fcntl.h'
+pqi/pqinetwork.h:44: Warning 201: Unable to find 'inttypes.h'
+pqi/pqinetwork.h:96: Warning 201: Unable to find 'iostream'
+pqi/pqinetwork.h:97: Warning 201: Unable to find 'string'
+pqi/pqinetwork.h:98: Warning 201: Unable to find 'list'
+pqi/p3cfgmgr.h:31: Warning 201: Unable to find 'string'
+pqi/p3cfgmgr.h:32: Warning 201: Unable to find 'map'
+pqi/pqi_base.h:31: Warning 201: Unable to find 'list'
+pqi/pqi_base.h:32: Warning 201: Unable to find 'string'
+pqi/pqi_base.h:33: Warning 201: Unable to find 'iostream'
+pqi/pqi_base.h:34: Warning 201: Unable to find 'functional'
+pqi/pqi_base.h:35: Warning 201: Unable to find 'algorithm'
+pqi/pqi_base.h:36: Warning 201: Unable to find 'inttypes.h'
+serialiser/rsserial.h:29: Warning 201: Unable to find 'stdlib.h'
+serialiser/rsserial.h:30: Warning 201: Unable to find 'string.h'
+serialiser/rsserial.h:31: Warning 201: Unable to find 'map'
+serialiser/rsserial.h:32: Warning 201: Unable to find 'string'
+serialiser/rsserial.h:33: Warning 201: Unable to find 'iosfwd'
+serialiser/rsserial.h:34: Warning 201: Unable to find 'stdlib.h'
+serialiser/rsserial.h:35: Warning 201: Unable to find 'stdint.h'
+util/smallobject.h:28: Warning 201: Unable to find 'stdlib.h'
+util/smallobject.h:29: Warning 201: Unable to find 'assert.h'
+util/smallobject.h:31: Warning 201: Unable to find 'vector'
+util/smallobject.h:32: Warning 201: Unable to find 'map'
+util/rsthreads.h:30: Warning 201: Unable to find 'pthread.h'
+util/rsthreads.h:31: Warning 201: Unable to find 'inttypes.h'
+util/rsthreads.h:32: Warning 201: Unable to find 'string'
+serialiser/itempriorities.h:28: Warning 201: Unable to find 'stdint.h'
+pqi/pqiindic.h:31: Warning 201: Unable to find 'vector'
+pqi/pqihash.h:29: Warning 201: Unable to find 'openssl/sha.h'
+pqi/pqihash.h:30: Warning 201: Unable to find 'string'
+pqi/pqihash.h:31: Warning 201: Unable to find 'iomanip'
+util/rsstring.h:25: Warning 201: Unable to find 'string'
+util/rsstring.h:26: Warning 201: Unable to find 'stdarg.h'
+retroshare/rstypes.h:30: Warning 201: Unable to find 'list'
+retroshare/rstypes.h:31: Warning 201: Unable to find 'map'
+retroshare/rstypes.h:32: Warning 201: Unable to find 'vector'
+retroshare/rstypes.h:33: Warning 201: Unable to find 'iostream'
+retroshare/rstypes.h:34: Warning 201: Unable to find 'string'
+retroshare/rstypes.h:35: Warning 201: Unable to find 'stdint.h'
+retroshare/rsflags.h:3: Warning 201: Unable to find 'stdint.h'
+pqi/pqihash.h:34: Warning 201: Unable to find 'inttypes.h'
+pqi/pqibin.h:35: Warning 201: Unable to find 'stdio.h'
+serialiser/rsnxsitems.h:30: Warning 201: Unable to find 'map'
+serialiser/rsserviceids.h:29: Warning 201: Unable to find 'inttypes.h'
+serialiser/rstlvbase.h:65: Warning 201: Unable to find 'stdlib.h'
+serialiser/rstlvbase.h:66: Warning 201: Unable to find 'string.h'
+serialiser/rstlvbase.h:67: Warning 201: Unable to find 'string'
+serialiser/rstlvkeys.h:33: Warning 201: Unable to find 'map'
+gxs/rsgxsdata.h:29: Warning 201: Unable to find 'string'
+gxs/rsgxs.h:30: Warning 201: Unable to find 'map'
+gxs/rsgxs.h:31: Warning 201: Unable to find 'vector'
+gxs/rsgenexchange.h:29: Warning 201: Unable to find 'queue'
+gxs/rsgenexchange.h:30: Warning 201: Unable to find 'ctime'
+gxs/rsgds.h:29: Warning 201: Unable to find 'set'
+gxs/rsgds.h:30: Warning 201: Unable to find 'map'
+gxs/rsgds.h:31: Warning 201: Unable to find 'string'
+gxs/rsgds.h:33: Warning 201: Unable to find 'inttypes.h'
+util/contentvalue.h:27: Warning 201: Unable to find 'inttypes.h'
+util/contentvalue.h:28: Warning 201: Unable to find 'string'
+util/contentvalue.h:29: Warning 201: Unable to find 'map'
+gxs/rsnxs.h:29: Warning 201: Unable to find 'set'
+gxs/rsnxs.h:30: Warning 201: Unable to find 'string'
+gxs/rsnxs.h:31: Warning 201: Unable to find 'time.h'
+gxs/rsnxs.h:32: Warning 201: Unable to find 'stdlib.h'
+gxs/rsnxs.h:33: Warning 201: Unable to find 'list'
+gxs/rsnxs.h:34: Warning 201: Unable to find 'map'
+serialiser/rsbaseitems.h:29: Warning 201: Unable to find 'map'
+pqi/pqi.h:39: Warning 201: Unable to find 'iostream'
+pqi/pqi.h:40: Warning 201: Unable to find 'functional'
+pqi/pqi.h:41: Warning 201: Unable to find 'algorithm'
+pqi/pqiservice.h:77: Warning 201: Unable to find 'map'
+retroshare/rstokenservice.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rstokenservice.h:30: Warning 201: Unable to find 'string'
+retroshare/rstokenservice.h:31: Warning 201: Unable to find 'list'
+gxs/rsnxsobserver.h:29: Warning 201: Unable to find 'set'
+gxs/rsgxsutil.h:29: Warning 201: Unable to find 'vector'
+retroshare/rsgxscircles.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsgxscircles.h:30: Warning 201: Unable to find 'string'
+retroshare/rsgxscircles.h:31: Warning 201: Unable to find 'list'
+retroshare/rsgxscircles.h:32: Warning 201: Unable to find 'set'
+retroshare/rsgxsflags.h:4: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsidentity.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsidentity.h:30: Warning 201: Unable to find 'string'
+retroshare/rsidentity.h:31: Warning 201: Unable to find 'list'
+./gxs/rsgxsnetservice.h:29: Warning 201: Unable to find 'list'
+./gxs/rsgxsnetservice.h:30: Warning 201: Unable to find 'queue'
+util/retrodb.h:27: Warning 201: Unable to find 'sqlite3.h'
+util/retrodb.h:29: Warning 201: Unable to find 'string'
+util/retrodb.h:30: Warning 201: Unable to find 'set'
+util/retrodb.h:31: Warning 201: Unable to find 'list'
+util/retrodb.h:32: Warning 201: Unable to find 'map'
+util/rsdbbind.h:27: Warning 201: Unable to find 'string'
+util/rsdbbind.h:28: Warning 201: Unable to find 'inttypes.h'
+util/rsdbbind.h:29: Warning 201: Unable to find 'sqlite3.h'
+./gxs/gxssecurity.h:33: Warning 201: Unable to find 'openssl/ssl.h'
+./gxs/gxssecurity.h:34: Warning 201: Unable to find 'openssl/evp.h'
+pqi/pqistore.h:33: Warning 201: Unable to find 'list'
+dbase/cachestrapper.h:31: Warning 201: Unable to find 'list'
+dbase/cachestrapper.h:32: Warning 201: Unable to find 'set'
+dbase/cachestrapper.h:33: Warning 201: Unable to find 'map'
+dbase/cachestrapper.h:34: Warning 201: Unable to find 'string'
+dbase/cachestrapper.h:35: Warning 201: Unable to find 'iostream'
+serialiser/rsdistribitems.h:29: Warning 201: Unable to find 'map'
+./distrib/p3distrib.h:36: Warning 201: Unable to find 'openssl/ssl.h'
+./distrib/p3distrib.h:37: Warning 201: Unable to find 'openssl/evp.h'
+./distrib/p3distrib.h:39: Warning 201: Unable to find 'set'
+./distrib/p3distrib.h:40: Warning 201: Unable to find 'vector'
+./distrib/p3distribsecurity.h:33: Warning 201: Unable to find 'openssl/ssl.h'
+./distrib/p3distribsecurity.h:34: Warning 201: Unable to find 'openssl/evp.h'
+./unfinished/p3portservice.h:57: Warning 201: Unable to find 'list'
+./unfinished/p3portservice.h:58: Warning 201: Unable to find 'string'
+./unfinished/p3portservice.h:62: Warning 201: Unable to find 'pqi/p3connmgr.h'
+./pgp/pgphandler.h:5: Warning 201: Unable to find 'stdint.h'
+./pgp/pgphandler.h:6: Warning 201: Unable to find 'string'
+./pgp/pgphandler.h:7: Warning 201: Unable to find 'list'
+./pgp/pgphandler.h:8: Warning 201: Unable to find 'map'
+./pgp/pgphandler.h:9: Warning 201: Unable to find 'set'
+util/rsid.h:31: Warning 201: Unable to find 'stdexcept'
+util/rsid.h:32: Warning 201: Unable to find 'string'
+util/rsid.h:33: Warning 201: Unable to find 'string.h'
+util/rsid.h:34: Warning 201: Unable to find 'stdint.h'
+util/rsrandom.h:35: Warning 201: Unable to find 'vector'
+./pgp/pgphandler.h:14: Warning 201: Unable to find 'openpgpsdk/types.h'
+./pgp/pgphandler.h:15: Warning 201: Unable to find 'openpgpsdk/keyring.h'
+./pgp/pgphandler.h:16: Warning 201: Unable to find 'openpgpsdk/keyring_local.h'
+./pgp/pgpkeyutil.h:41: Warning 201: Unable to find 'stdint.h'
+./pgp/pgpkeyutil.h:42: Warning 201: Unable to find 'string'
+./pgp/rscertificate.h:3: Warning 201: Unable to find 'string'
+retroshare/rsdht.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsdht.h:30: Warning 201: Unable to find 'string'
+retroshare/rsdht.h:31: Warning 201: Unable to find 'list'
+./zeroconf/p3zcnatassist.h:35: Warning 201: Unable to find 'string'
+./zeroconf/p3zcnatassist.h:36: Warning 201: Unable to find 'map'
+retroshare/rspeers.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rspeers.h:30: Warning 201: Unable to find 'string'
+retroshare/rspeers.h:31: Warning 201: Unable to find 'list'
+retroshare/rsfiles.h:30: Warning 201: Unable to find 'list'
+retroshare/rsfiles.h:31: Warning 201: Unable to find 'iostream'
+retroshare/rsfiles.h:32: Warning 201: Unable to find 'string'
+retroshare/rsfiles.h:34: Warning 201: Unable to find 'rstypes.h'
+./zeroconf/p3zcnatassist.h:42: Warning 201: Unable to find 'dns_sd.h'
+./zeroconf/p3zeroconf.h:35: Warning 201: Unable to find 'string'
+./zeroconf/p3zeroconf.h:36: Warning 201: Unable to find 'map'
+./zeroconf/p3zeroconf.h:42: Warning 201: Unable to find 'dns_sd.h'
+retroshare/rsnotify.h:30: Warning 201: Unable to find 'map'
+retroshare/rsnotify.h:31: Warning 201: Unable to find 'list'
+retroshare/rsnotify.h:32: Warning 201: Unable to find 'iostream'
+retroshare/rsnotify.h:33: Warning 201: Unable to find 'string'
+retroshare/rsnotify.h:34: Warning 201: Unable to find 'stdint.h'
+./pqi/sslfns.h:36: Warning 201: Unable to find 'openssl/evp.h'
+./pqi/sslfns.h:37: Warning 201: Unable to find 'openssl/x509.h'
+./pqi/sslfns.h:38: Warning 201: Unable to find 'openssl/ssl.h'
+./pqi/sslfns.h:40: Warning 201: Unable to find 'inttypes.h'
+./pqi/sslfns.h:41: Warning 201: Unable to find 'string'
+./pqi/pqiqos.h:37: Warning 201: Unable to find 'stdint.h'
+./pqi/pqiqos.h:38: Warning 201: Unable to find 'stdlib.h'
+./pqi/pqiqos.h:39: Warning 201: Unable to find 'vector'
+./pqi/pqiqos.h:40: Warning 201: Unable to find 'list'
+pqi/pqisecurity.h:34: Warning 201: Unable to find 'string'
+pqi/pqiqos.h:37: Warning 201: Unable to find 'stdint.h'
+pqi/pqiqos.h:38: Warning 201: Unable to find 'stdlib.h'
+pqi/pqiqos.h:39: Warning 201: Unable to find 'vector'
+pqi/pqiqos.h:40: Warning 201: Unable to find 'list'
+./pqi/pqihandler.h:35: Warning 201: Unable to find 'map'
+./pqi/pqihandler.h:36: Warning 201: Unable to find 'list'
+./pqi/pqinetstatebox.h:6: Warning 201: Unable to find 'string'
+./pqi/pqinetstatebox.h:7: Warning 201: Unable to find 'list'
+./pqi/pqinetstatebox.h:9: Warning 201: Unable to find 'bitdht/bdiface.h'
+./pqi/pqissludp.h:31: Warning 201: Unable to find 'openssl/ssl.h'
+./pqi/pqissludp.h:36: Warning 201: Unable to find 'string'
+./pqi/pqissludp.h:37: Warning 201: Unable to find 'map'
+pqi/pqissl.h:31: Warning 201: Unable to find 'openssl/ssl.h'
+pqi/pqissl.h:36: Warning 201: Unable to find 'string'
+pqi/pqissl.h:37: Warning 201: Unable to find 'map'
+pqi/authssl.h:42: Warning 201: Unable to find 'openssl/ssl.h'
+pqi/authssl.h:43: Warning 201: Unable to find 'openssl/evp.h'
+pqi/authssl.h:45: Warning 201: Unable to find 'string'
+pqi/authssl.h:46: Warning 201: Unable to find 'map'
+./pqi/p3dhtmgr.h:32: Warning 201: Unable to find 'string'
+./pqi/p3dhtmgr.h:33: Warning 201: Unable to find 'map'
+./pqi/pqistreamer.h:34: Warning 201: Unable to find 'list'
+pqi/authgpg.h:42: Warning 201: Unable to find 'openssl/ssl.h'
+pqi/authgpg.h:43: Warning 201: Unable to find 'openssl/evp.h'
+pqi/authgpg.h:46: Warning 201: Unable to find 'string'
+pqi/authgpg.h:47: Warning 201: Unable to find 'list'
+pqi/authgpg.h:48: Warning 201: Unable to find 'set'
+pqi/authgpg.h:49: Warning 201: Unable to find 'map'
+pgp/pgphandler.h:5: Warning 201: Unable to find 'stdint.h'
+pgp/pgphandler.h:6: Warning 201: Unable to find 'string'
+pgp/pgphandler.h:7: Warning 201: Unable to find 'list'
+pgp/pgphandler.h:8: Warning 201: Unable to find 'map'
+pgp/pgphandler.h:9: Warning 201: Unable to find 'set'
+pgp/pgphandler.h:14: Warning 201: Unable to find 'openpgpsdk/types.h'
+pgp/pgphandler.h:15: Warning 201: Unable to find 'openpgpsdk/keyring.h'
+pgp/pgphandler.h:16: Warning 201: Unable to find 'openpgpsdk/keyring_local.h'
+./pqi/pqiperson.h:34: Warning 201: Unable to find 'list'
+./pqi/pqissllistener.h:31: Warning 201: Unable to find 'openssl/ssl.h'
+./pqi/pqissllistener.h:36: Warning 201: Unable to find 'string'
+./pqi/pqissllistener.h:37: Warning 201: Unable to find 'map'
+./pqi/pqiloopback.h:32: Warning 201: Unable to find 'map'
+./pqi/pqiloopback.h:33: Warning 201: Unable to find 'list'
+./pqi/pqiloopback.h:34: Warning 201: Unable to find 'iostream'
+./pqi/p3historymgr.h:29: Warning 201: Unable to find 'map'
+./pqi/p3historymgr.h:30: Warning 201: Unable to find 'list'
+retroshare/rshistory.h:33: Warning 201: Unable to find 'string'
+retroshare/rshistory.h:34: Warning 201: Unable to find 'inttypes.h'
+retroshare/rshistory.h:35: Warning 201: Unable to find 'list'
+./pqi/pqissltunnel.h:33: Warning 201: Unable to find 'openssl/ssl.h'
+serialiser/rstunnelitems.h:29: Warning 201: Unable to find 'map'
+serialiser/rsbaseserial.h:29: Warning 201: Unable to find 'string'
+serialiser/rsbaseserial.h:30: Warning 201: Unable to find 'stdlib.h'
+serialiser/rsbaseserial.h:31: Warning 201: Unable to find 'stdint.h'
+./pqi/pqiarchive.h:33: Warning 201: Unable to find 'list'
+./tests/gxs/common/support.h:29: Warning 201: Unable to find 'string'
+./tests/gxs/common/support.h:30: Warning 201: Unable to find 'stdint.h'
+./tests/gxs/common/support.h:31: Warning 201: Unable to find 'iostream'
+util/utest.h:4: Warning 201: Unable to find 'stdio.h'
+serialiser/rstlvutil.h:32: Warning 201: Unable to find 'ostream'
+serialiser/rstlvutil.h:40: Warning 201: Unable to find 'vector'
+./tests/gxs/nxs_test/nxstestscenario.h:11: Warning 201: Unable to find 'map'
+./tests/network_simulator/NetworkSimulatorGUI.h:1: Warning 201: Unable to find 'ui_NetworkSimulatorGUI.h'
+turtle/p3turtle.h:140: Warning 201: Unable to find 'string'
+turtle/p3turtle.h:141: Warning 201: Unable to find 'list'
+turtle/p3turtle.h:142: Warning 201: Unable to find 'set'
+serialiser/rsconfigitems.h:29: Warning 201: Unable to find 'map'
+serialiser/rsconfigitems.h:30: Warning 201: Unable to find 'vector'
+ft/ftcontroller.h:58: Warning 201: Unable to find 'map'
+retroshare/rsturtle.h:31: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsturtle.h:32: Warning 201: Unable to find 'string'
+retroshare/rsturtle.h:33: Warning 201: Unable to find 'list'
+retroshare/rsturtle.h:34: Warning 201: Unable to find 'vector'
+turtle/p3turtle.h:152: Warning 201: Unable to find 'rsturtleitem.h'
+turtle/p3turtle.h:153: Warning 201: Unable to find 'turtleclientservice.h'
+turtle/p3turtle.h:154: Warning 201: Unable to find 'turtlestatistics.h'
+./tests/network_simulator/Network.h:3: Warning 201: Unable to find 'string'
+./tests/network_simulator/Network.h:4: Warning 201: Unable to find 'map'
+./tests/network_simulator/Network.h:5: Warning 201: Unable to find 'set'
+./tests/network_simulator/Network.h:6: Warning 201: Unable to find 'list'
+./tests/network_simulator/Network.h:7: Warning 201: Unable to find 'vector'
+./tests/network_simulator/Network.h:8: Warning 201: Unable to find 'stdint.h'
+./tests/network_simulator/NetworkViewer.h:1: Warning 201: Unable to find 'QPoint'
+./tests/network_simulator/NetworkViewer.h:2: Warning 201: Unable to find 'QGLViewer/qglviewer.h'
+./tests/services/servicetest.h:30: Warning 201: Unable to find 'pqi/p3connmgr.h'
+retroshare/rsforums.h:30: Warning 201: Unable to find 'list'
+retroshare/rsforums.h:31: Warning 201: Unable to find 'iostream'
+retroshare/rsforums.h:32: Warning 201: Unable to find 'string'
+serialiser/rsforumitems.h:29: Warning 201: Unable to find 'map'
+services/p3chatservice.h:30: Warning 201: Unable to find 'list'
+services/p3chatservice.h:31: Warning 201: Unable to find 'string'
+services/p3chatservice.h:32: Warning 201: Unable to find 'vector'
+serialiser/rsmsgitems.h:29: Warning 201: Unable to find 'map'
+turtle/turtleclientservice.h:34: Warning 201: Unable to find 'string'
+turtle/turtleclientservice.h:35: Warning 201: Unable to find 'stdlib.h'
+retroshare/rsexpr.h:30: Warning 201: Unable to find 'string'
+retroshare/rsexpr.h:31: Warning 201: Unable to find 'list'
+retroshare/rsexpr.h:32: Warning 201: Unable to find 'stdint.h'
+retroshare/rsmsgs.h:30: Warning 201: Unable to find 'list'
+retroshare/rsmsgs.h:31: Warning 201: Unable to find 'iostream'
+retroshare/rsmsgs.h:32: Warning 201: Unable to find 'string'
+retroshare/rsmsgs.h:33: Warning 201: Unable to find 'set'
+./tests/common/testutils.h:1: Warning 201: Unable to find 'stdio.h'
+./tests/common/testutils.h:2: Warning 201: Unable to find 'stdint.h'
+./tests/common/testutils.h:3: Warning 201: Unable to find 'stdlib.h'
+serialiser/rschannelitems.h:29: Warning 201: Unable to find 'map'
+serialiser/rsblogitems.h:29: Warning 201: Unable to find 'map'
+./tests/serialiser/rsphotoitem_test.h:29: Warning 201: Unable to find 'serialiser/rsphotov2items.h'
+./tests/serialiser/rsmsgitem_test.h:30: Warning 201: Unable to find 'iostream'
+./tests/tcponudp/udptestfn.h:26: Warning 201: Unable to find 'udp/udplayer.h'
+./tests/tcponudp/udptestfn.h:27: Warning 201: Unable to find 'udp/udpstack.h'
+tcponudp/udppeer.h:30: Warning 201: Unable to find 'netinet/in.h'
+tcponudp/udppeer.h:35: Warning 201: Unable to find 'iosfwd'
+tcponudp/udppeer.h:36: Warning 201: Unable to find 'list'
+tcponudp/udppeer.h:37: Warning 201: Unable to find 'deque'
+tcponudp/rsudpstack.h:53: Warning 201: Unable to find 'iostream'
+./tests/ft/ftdata_dummy.h:38: Warning 201: Unable to find 'string'
+./tests/ft/ftdata_dummy.h:39: Warning 201: Unable to find 'inttypes.h'
+ft/ftdata.h:38: Warning 201: Unable to find 'string'
+ft/ftdata.h:39: Warning 201: Unable to find 'inttypes.h'
+./tests/ft/pqitestor.h:42: Warning 201: Unable to find 'string'
+retroshare/rsposted.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsposted.h:30: Warning 201: Unable to find 'string'
+retroshare/rsposted.h:31: Warning 201: Unable to find 'list'
+retroshare/rsgxscommon.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsgxscommon.h:30: Warning 201: Unable to find 'string'
+retroshare/rsgxscommon.h:31: Warning 201: Unable to find 'list'
+services/p3gxscommon.h:31: Warning 201: Unable to find 'stdio.h'
+util/rstickevent.h:34: Warning 201: Unable to find 'map'
+util/rstickevent.h:35: Warning 201: Unable to find 'time.h'
+./services/p3posted.h:38: Warning 201: Unable to find 'map'
+./services/p3posted.h:39: Warning 201: Unable to find 'string'
+./services/p3posted.h:40: Warning 201: Unable to find 'list'
+./services/p3msgservice.h:30: Warning 201: Unable to find 'list'
+./services/p3msgservice.h:31: Warning 201: Unable to find 'map'
+./services/p3msgservice.h:32: Warning 201: Unable to find 'iostream'
+retroshare/rsphoto.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsphoto.h:30: Warning 201: Unable to find 'string'
+retroshare/rsphoto.h:31: Warning 201: Unable to find 'list'
+services/p3gxsserviceVEG.h:30: Warning 201: Unable to find 'retroshare/rsidentityVEG.h'
+retroshare/rspostedVEG.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rspostedVEG.h:30: Warning 201: Unable to find 'string'
+retroshare/rspostedVEG.h:31: Warning 201: Unable to find 'list'
+retroshare/rspostedVEG.h:32: Warning 201: Unable to find 'retroshare/rsidentityVEG.h'
+./services/p3postedVEG.h:32: Warning 201: Unable to find 'map'
+./services/p3postedVEG.h:33: Warning 201: Unable to find 'string'
+./services/p3bwctrl.h:30: Warning 201: Unable to find 'string'
+./services/p3bwctrl.h:31: Warning 201: Unable to find 'list'
+./services/p3bwctrl.h:32: Warning 201: Unable to find 'map'
+serialiser/rsbwctrlitems.h:29: Warning 201: Unable to find 'map'
+retroshare/rsconfig.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsconfig.h:30: Warning 201: Unable to find 'string'
+retroshare/rsconfig.h:31: Warning 201: Unable to find 'list'
+retroshare/rsconfig.h:32: Warning 201: Unable to find 'map'
+retroshare/rswire.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rswire.h:30: Warning 201: Unable to find 'string'
+retroshare/rswire.h:31: Warning 201: Unable to find 'list'
+./services/p3wire.h:32: Warning 201: Unable to find 'map'
+./services/p3wire.h:33: Warning 201: Unable to find 'string'
+./services/p3idservice.h:36: Warning 201: Unable to find 'map'
+./services/p3idservice.h:37: Warning 201: Unable to find 'string'
+util/rsmemcache.h:28: Warning 201: Unable to find 'map'
+util/rsmemcache.h:29: Warning 201: Unable to find 'time.h'
+util/rsmemcache.h:30: Warning 201: Unable to find 'iostream'
+util/rsmemcache.h:31: Warning 201: Unable to find 'inttypes.h'
+util/rsmemcache.h:32: Warning 201: Unable to find 'string'
+./services/p3dsdv.h:30: Warning 201: Unable to find 'list'
+./services/p3dsdv.h:31: Warning 201: Unable to find 'string'
+serialiser/rsdsdvitems.h:29: Warning 201: Unable to find 'map'
+serialiser/rstlvdsdv.h:33: Warning 201: Unable to find 'map'
+retroshare/rsdsdv.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsdsdv.h:30: Warning 201: Unable to find 'string'
+retroshare/rsdsdv.h:31: Warning 201: Unable to find 'list'
+./services/p3gamelauncher.h:35: Warning 201: Unable to find 'list'
+./services/p3gamelauncher.h:36: Warning 201: Unable to find 'string'
+serialiser/rsgameitems.h:29: Warning 201: Unable to find 'map'
+retroshare/rsgame.h:39: Warning 201: Unable to find 'map'
+retroshare/rsgame.h:40: Warning 201: Unable to find 'string'
+retroshare/rsgame.h:41: Warning 201: Unable to find 'inttypes.h'
+./services/p3statusservice.h:29: Warning 201: Unable to find 'map'
+./services/p3statusservice.h:30: Warning 201: Unable to find 'list'
+retroshare/rsstatus.h:33: Warning 201: Unable to find 'iostream'
+retroshare/rsstatus.h:34: Warning 201: Unable to find 'string'
+retroshare/rsstatus.h:35: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsstatus.h:36: Warning 201: Unable to find 'list'
+retroshare/rsblogs.h:30: Warning 201: Unable to find 'list'
+retroshare/rsblogs.h:31: Warning 201: Unable to find 'iostream'
+retroshare/rsblogs.h:32: Warning 201: Unable to find 'string'
+retroshare/rsgxsforums.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsgxsforums.h:30: Warning 201: Unable to find 'string'
+retroshare/rsgxsforums.h:31: Warning 201: Unable to find 'list'
+./services/p3gxsforums.h:35: Warning 201: Unable to find 'map'
+./services/p3gxsforums.h:36: Warning 201: Unable to find 'string'
+./services/p3disc.h:31: Warning 201: Unable to find 'string'
+./services/p3disc.h:32: Warning 201: Unable to find 'list'
+retroshare/rsgxschannels.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rsgxschannels.h:30: Warning 201: Unable to find 'string'
+retroshare/rsgxschannels.h:31: Warning 201: Unable to find 'list'
+./services/p3gxschannels.h:37: Warning 201: Unable to find 'map'
+./services/p3gxschannels.h:38: Warning 201: Unable to find 'string'
+retroshare/rswiki.h:29: Warning 201: Unable to find 'inttypes.h'
+retroshare/rswiki.h:30: Warning 201: Unable to find 'string'
+retroshare/rswiki.h:31: Warning 201: Unable to find 'list'
+./services/p3wiki.h:34: Warning 201: Unable to find 'map'
+./services/p3wiki.h:35: Warning 201: Unable to find 'string'
+./services/p3gxscircles.h:40: Warning 201: Unable to find 'map'
+./services/p3gxscircles.h:41: Warning 201: Unable to find 'string'
+./services/p3banlist.h:30: Warning 201: Unable to find 'string'
+./services/p3banlist.h:31: Warning 201: Unable to find 'list'
+./services/p3banlist.h:32: Warning 201: Unable to find 'map'
+serialiser/rsbanlistitems.h:29: Warning 201: Unable to find 'map'
+serialiser/rstlvbanlist.h:33: Warning 201: Unable to find 'map'
+./services/p3gameservice.h:35: Warning 201: Unable to find 'list'
+./services/p3gameservice.h:36: Warning 201: Unable to find 'string'
+retroshare/rschannels.h:30: Warning 201: Unable to find 'list'
+retroshare/rschannels.h:31: Warning 201: Unable to find 'iostream'
+retroshare/rschannels.h:32: Warning 201: Unable to find 'string'
+dbase/findex.h:27: Warning 201: Unable to find 'string'
+dbase/findex.h:28: Warning 201: Unable to find 'map'
+dbase/findex.h:29: Warning 201: Unable to find 'set'
+dbase/findex.h:30: Warning 201: Unable to find 'tr1/unordered_set'
+dbase/findex.h:31: Warning 201: Unable to find 'list'
+dbase/findex.h:32: Warning 201: Unable to find 'vector'
+dbase/findex.h:33: Warning 201: Unable to find 'stdint.h'
+retroshare/rsiface.h:32: Warning 201: Unable to find 'map'
+./retroshare/rsinit.h:44: Warning 201: Unable to find 'stdint.h'
+./retroshare/rsinit.h:45: Warning 201: Unable to find 'list'
+./retroshare/rsinit.h:46: Warning 201: Unable to find 'map'
+./retroshare/rsinit.h:47: Warning 201: Unable to find 'vector'
+./retroshare/rsflags.h:3: Warning 201: Unable to find 'stdint.h'
+./retroshare/rsdisc.h:29: Warning 201: Unable to find 'inttypes.h'
+./retroshare/rsdisc.h:30: Warning 201: Unable to find 'string'
+./retroshare/rsdisc.h:31: Warning 201: Unable to find 'list'
+./retroshare/rsdisc.h:32: Warning 201: Unable to find 'map'
+./retroshare/rsplugin.h:28: Warning 201: Unable to find 'time.h'
+./retroshare/rsplugin.h:29: Warning 201: Unable to find 'stdint.h'
+./retroshare/rsplugin.h:30: Warning 201: Unable to find 'string'
+./retroshare/rsplugin.h:31: Warning 201: Unable to find 'vector'
+util/rsversion.h:8: Warning 201: Unable to find 'string'
+util/rsversion.h:9: Warning 201: Unable to find 'inttypes.h'
+./serialiser/rswikiitems.h:29: Warning 201: Unable to find 'map'
+./serialiser/rsgxscircleitems.h:29: Warning 201: Unable to find 'map'
+./serialiser/itempriorities.h:28: Warning 201: Unable to find 'stdint.h'
+./serialiser/rsgxsforumitems.h:29: Warning 201: Unable to find 'map'
+./serialiser/rsgxsiditems.h:29: Warning 201: Unable to find 'map'
+./serialiser/rsgxscommentitems.h:29: Warning 201: Unable to find 'map'
+./serialiser/rswireitems.h:29: Warning 201: Unable to find 'map'
+./serialiser/rsphotoitems.h:29: Warning 201: Unable to find 'map'
+./serialiser/rsgxschannelitems.h:29: Warning 201: Unable to find 'map'
+util/rsdir.h:31: Warning 201: Unable to find 'string'
+util/rsdir.h:32: Warning 201: Unable to find 'list'
+util/rsdir.h:33: Warning 201: Unable to find 'set'
+util/rsdir.h:34: Warning 201: Unable to find 'stdint.h'
+./grouter/groutertypes.h:28: Warning 201: Unable to find 'stdint.h'
+./grouter/groutertypes.h:29: Warning 201: Unable to find 'time.h'
+./grouter/groutermatrix.h:28: Warning 201: Unable to find 'list'
+pgp/rscertificate.h:3: Warning 201: Unable to find 'string'
+grouter/groutertypes.h:28: Warning 201: Unable to find 'stdint.h'
+grouter/groutertypes.h:29: Warning 201: Unable to find 'time.h'
+./grouter/p3grouter.h:28: Warning 201: Unable to find 'map'
+./grouter/p3grouter.h:29: Warning 201: Unable to find 'queue'
+./rsserver/p3rank.h:29: Warning 201: Unable to find 'retroshare/rsrank.h'
+./rsserver/p3rank.h:30: Warning 201: Unable to find 'services/p3ranking.h'
+./rsserver/rsloginhandler.h:3: Warning 201: Unable to find 'string'
+ft/ftserver.h:42: Warning 201: Unable to find 'map'
+ft/ftserver.h:43: Warning 201: Unable to find 'list'
+ft/ftserver.h:44: Warning 201: Unable to find 'iostream'
+./turtle/turtleclientservice.h:34: Warning 201: Unable to find 'string'
+./turtle/turtleclientservice.h:35: Warning 201: Unable to find 'stdlib.h'
+./upnp/upnphandler_miniupnp.h:5: Warning 201: Unable to find 'string.h'
+./upnp/upnphandler_miniupnp.h:7: Warning 201: Unable to find 'string'
+./upnp/upnphandler_miniupnp.h:8: Warning 201: Unable to find 'map'
+./upnp/UPnPBase.h:27: Warning 201: Unable to find 'map'
+./upnp/UPnPBase.h:28: Warning 201: Unable to find 'string'
+./upnp/UPnPBase.h:29: Warning 201: Unable to find 'memory'
+./upnp/UPnPBase.h:30: Warning 201: Unable to find 'vector'
+./upnp/UPnPBase.h:31: Warning 201: Unable to find 'string.h'
+./upnp/UPnPBase.h:33: Warning 201: Unable to find 'upnp/upnp.h'
+./upnp/UPnPBase.h:34: Warning 201: Unable to find 'upnp/upnptools.h'
+./upnp/UPnPBase.h:35: Warning 201: Unable to find 'upnp/upnpdebug.h'
+./upnp/UPnPBase.h:39: Warning 201: Unable to find 'iostream'
+./upnp/upnputil.h:13: Warning 201: Unable to find 'stdio.h'
+./upnp/upnputil.h:14: Warning 201: Unable to find 'stdlib.h'
+./upnp/upnputil.h:15: Warning 201: Unable to find 'string.h'
+./upnp/upnputil.h:20: Warning 201: Unable to find 'miniwget.h'
+./upnp/upnputil.h:21: Warning 201: Unable to find 'miniupnpc.h'
+./upnp/upnputil.h:22: Warning 201: Unable to find 'upnpcommands.h'
+./tcponudp/bio_tou.h:29: Warning 201: Unable to find 'openssl/bio.h'
+./tcponudp/tou.h:38: Warning 201: Unable to find 'sys/types.h'
+./tcponudp/tou.h:39: Warning 201: Unable to find 'sys/socket.h'
+./tcponudp/tou.h:40: Warning 201: Unable to find 'netinet/in.h'
+./tcponudp/tcppacket.h:31: Warning 201: Unable to find 'sys/types.h'
+./tcponudp/udprelay.h:31: Warning 201: Unable to find 'vector'
+./tcponudp/udpstunner.h:29: Warning 201: Unable to find 'netinet/in.h'
+./tcponudp/udpstunner.h:34: Warning 201: Unable to find 'string'
+./tcponudp/tcpstream.h:74: Warning 201: Unable to find 'list'
+./tcponudp/tcpstream.h:75: Warning 201: Unable to find 'deque'
+./dht/p3bitdht.h:34: Warning 201: Unable to find 'string'
+./dht/p3bitdht.h:35: Warning 201: Unable to find 'map'
+./dht/p3bitdht.h:40: Warning 201: Unable to find 'udp/udpstack.h'
+./dht/p3bitdht.h:41: Warning 201: Unable to find 'udp/udpbitdht.h'
+./dht/p3bitdht.h:42: Warning 201: Unable to find 'bitdht/bdiface.h'
+dht/connectstatebox.h:75: Warning 201: Unable to find 'iosfwd'
+dht/connectstatebox.h:76: Warning 201: Unable to find 'string'
+dht/connectstatebox.h:78: Warning 201: Unable to find 'stdlib.h'
+dht/connectstatebox.h:79: Warning 201: Unable to find 'time.h'
+dht/connectstatebox.h:80: Warning 201: Unable to find 'inttypes.h'
+./util/argstream.h:27: Warning 201: Unable to find 'stdlib.h'
+./util/argstream.h:28: Warning 201: Unable to find 'string'
+./util/argstream.h:29: Warning 201: Unable to find 'list'
+./util/argstream.h:30: Warning 201: Unable to find 'deque'
+./util/argstream.h:31: Warning 201: Unable to find 'map'
+./util/argstream.h:32: Warning 201: Unable to find 'stdexcept'
+./util/argstream.h:33: Warning 201: Unable to find 'sstream'
+./util/argstream.h:34: Warning 201: Unable to find 'iostream'
+./util/rsversion.h:8: Warning 201: Unable to find 'string'
+./util/rsversion.h:9: Warning 201: Unable to find 'inttypes.h'
+./util/extaddrfinder.h:3: Warning 201: Unable to find 'list'
+./util/extaddrfinder.h:4: Warning 201: Unable to find 'string'
+./util/rsrandom.h:35: Warning 201: Unable to find 'vector'
+./util/rsid.h:31: Warning 201: Unable to find 'stdexcept'
+./util/rsid.h:32: Warning 201: Unable to find 'string'
+./util/rsid.h:33: Warning 201: Unable to find 'string.h'
+./util/rsid.h:34: Warning 201: Unable to find 'stdint.h'
+./util/rsprint.h:31: Warning 201: Unable to find 'inttypes.h'
+./util/rsprint.h:32: Warning 201: Unable to find 'string'
+./util/rsscopetimer.h:34: Warning 201: Unable to find 'sys/time.h'
+./util/radix64.h:3: Warning 201: Unable to find 'string'
+./util/radix64.h:4: Warning 201: Unable to find 'string.h'
+./util/radix64.h:5: Warning 201: Unable to find 'vector'
+./util/rsaes.h:26: Warning 201: Unable to find 'stdint.h'
+./util/rsdiscspace.h:28: Warning 201: Unable to find 'stdlib.h'
+./util/rsdiscspace.h:29: Warning 201: Unable to find 'stdint.h'
+./util/folderiterator.h:5: Warning 201: Unable to find 'iostream'
+./util/folderiterator.h:6: Warning 201: Unable to find 'cstdio'
+./util/folderiterator.h:14: Warning 201: Unable to find 'dirent.h'
+./util/rsdebug.h:44: Warning 201: Unable to find 'string'
+./util/dnsresolver.h:6: Warning 201: Unable to find 'netdb.h'
+./util/dnsresolver.h:9: Warning 201: Unable to find 'map'
+./util/dnsresolver.h:10: Warning 201: Unable to find 'string'
+./util/smallobject.h:28: Warning 201: Unable to find 'stdlib.h'
+./util/smallobject.h:29: Warning 201: Unable to find 'assert.h'
+./util/smallobject.h:31: Warning 201: Unable to find 'vector'
+./util/smallobject.h:32: Warning 201: Unable to find 'map'
+./ft/ftdatamultiplex.h:41: Warning 201: Unable to find 'string'
+./ft/ftdatamultiplex.h:42: Warning 201: Unable to find 'list'
+./ft/ftdatamultiplex.h:43: Warning 201: Unable to find 'map'
+./ft/ftdatamultiplex.h:44: Warning 201: Unable to find 'inttypes.h'
+./ft/ftchunkmap.h:3: Warning 201: Unable to find 'map'
+./ft/ftfileprovider.h:33: Warning 201: Unable to find 'iostream'
+./ft/ftfileprovider.h:34: Warning 201: Unable to find 'stdint.h'
+./ft/ftfilecreator.h:37: Warning 201: Unable to find 'map'
+./ft/ftextralist.h:56: Warning 201: Unable to find 'list'
+./ft/ftextralist.h:57: Warning 201: Unable to find 'map'
+./ft/ftextralist.h:58: Warning 201: Unable to find 'string'
+./ft/ftfilesearch.h:36: Warning 201: Unable to find 'vector'
+./ft/fttransfermodule.h:38: Warning 201: Unable to find 'map'
+./ft/fttransfermodule.h:39: Warning 201: Unable to find 'list'
+./ft/fttransfermodule.h:40: Warning 201: Unable to find 'string'
+./ft/ftturtlefiletransferitem.h:26: Warning 201: Unable to find 'stdint.h'
+./ft/ftfilemapper.h:47: Warning 201: Unable to find 'stdint.h'
+./ft/ftfilemapper.h:48: Warning 201: Unable to find 'string'
+./ft/ftfilemapper.h:49: Warning 201: Unable to find 'vector'
+./plugins/pluginmanager.h:3: Warning 201: Unable to find 'string'
+./plugins/pluginmanager.h:4: Warning 201: Unable to find 'set'
+./plugins/pluginmanager.h:5: Warning 201: Unable to find 'vector'
+retroshare/rsplugin.h:28: Warning 201: Unable to find 'time.h'
+retroshare/rsplugin.h:29: Warning 201: Unable to find 'stdint.h'
+retroshare/rsplugin.h:30: Warning 201: Unable to find 'string'
+retroshare/rsplugin.h:31: Warning 201: Unable to find 'vector'
+plugins/pluginmanager.h:3: Warning 201: Unable to find 'string'
+plugins/pluginmanager.h:4: Warning 201: Unable to find 'set'
+plugins/pluginmanager.h:5: Warning 201: Unable to find 'vector'
+Language subdirectory: java
+Search paths:
+   ./
+   ./swig_lib/java/
+   /usr/share/swig2.0/java/
+   ./swig_lib/
+   /usr/share/swig2.0/
+Preprocessing...
+Starting language-specific parse...
+util/smallobject.h:102: Warning 350: operator new ignored
+util/smallobject.h:103: Warning 351: operator delete ignored
+retroshare/rstypes.h:274: Warning 325: Nested struct not currently supported (SliceInfo ignored)
+./gxs/rsgroups.h:128: Warning 302: Identifier 'getGroupInfo' redefined (ignored),
+./gxs/rsgroups.h:125: Warning 302: previous definition of 'getGroupInfo'.
+./pqi/pqiqos.h:70: Warning 325: Nested class not currently supported (ItemQueue ignored)
+pqi/pqiqos.h:70: Warning 325: Nested class not currently supported (ItemQueue ignored)
+pqi/pqiqos.h:43: Warning 302: Identifier 'pqiQoS' redefined (ignored),
+./pqi/pqiqos.h:43: Warning 302: previous definition of 'pqiQoS'.
+pgp/pgphandler.h:28: Warning 302: Identifier 'PGPCertificateInfo' redefined (ignored),
+./pgp/pgphandler.h:28: Warning 302: previous definition of 'PGPCertificateInfo'.
+pgp/pgphandler.h:67: Warning 302: Identifier 'PGPHandler' redefined (ignored),
+./pgp/pgphandler.h:67: Warning 302: previous definition of 'PGPHandler'.
+./pqi/pqissllistener.h:95: Warning 325: Nested struct not currently supported (IncomingSSLInfo ignored)
+./pqi/pqiqosstreamer.h:32: Warning 302: Identifier 'pqiQoSstreamer' redefined (ignored),
+pqi/pqiqosstreamer.h:32: Warning 302: previous definition of 'pqiQoSstreamer'.
+./tests/gxs/gen_exchange/genexchangetester.h:146: Warning 325: Nested template class not currently supported (Comparison ignored).
+./tests/gxs/gen_exchange/genexchangetester.h:173: Warning 325: Nested template class not currently supported (Comparison<(Cont,p.Item)> ignored).
+./tests/gxs/data_service/rsdataservice_test.h:23: Warning 319: No access specifier given for base class 'RsThread' (ignored).
+./tests/network_simulator/Network.h:23: Warning 325: Nested struct not currently supported (NodeTrafficInfo ignored)
+./tests/common/testutils.h:71: Warning 325: Nested class not currently supported (DummyAuthGPG ignored)
+./tests/common/testutils.h:88: Warning 325: Nested class not currently supported (DummyAuthSSL ignored)
+./tests/common/testutils.h:99: Warning 325: Nested class not currently supported (DummyRsPeers ignored)
+./services/p3msgservice.h:110: Warning 325: Nested struct not currently supported (DistantMessengingInvite ignored)
+./services/p3msgservice.h:117: Warning 325: Nested struct not currently supported (DistantMessengingContact ignored)
+retroshare/rspostedVEG.h:40: Warning 302: Identifier 'RsPostedGroup' redefined (ignored),
+retroshare/rsposted.h:43: Warning 302: previous definition of 'RsPostedGroup'.
+retroshare/rspostedVEG.h:73: Warning 302: Identifier 'RsPostedPost' redefined (ignored),
+retroshare/rsposted.h:107: Warning 302: previous definition of 'RsPostedPost'.
+./dbase/fimonitor.h:90: Warning 325: Nested struct not currently supported (HashCacheInfo ignored)
+./retroshare/rsflags.h:24: Warning 302: Identifier 't_RsFlags32' redefined (ignored),
+retroshare/rsflags.h:24: Warning 302: previous definition of 't_RsFlags32'.
+./retroshare/rsflags.h:24: Warning 302: Identifier 't_RsFlags32' redefined (ignored),
+retroshare/rsflags.h:24: Warning 302: previous definition of 't_RsFlags32'.
+./serialiser/rsgxsitem.h:11: Warning 319: No access specifier given for base class 'RsItem' (ignored).
+./serialiser/rsgxsitem.h:12: Warning 302: Identifier 'RsGxsGrpItem' redefined (ignored),
+serialiser/rsgxsitems.h:40: Warning 302: previous definition of 'RsGxsGrpItem'.
+./serialiser/rsgxsitem.h:19: Warning 319: No access specifier given for base class 'RsItem' (ignored).
+./serialiser/rsgxsitem.h:20: Warning 302: Identifier 'RsGxsMsgItem' redefined (ignored),
+serialiser/rsgxsitems.h:53: Warning 302: previous definition of 'RsGxsMsgItem'.
+pgp/rscertificate.h:13: Warning 302: Identifier 'RsCertificate' redefined (ignored),
+./pgp/rscertificate.h:13: Warning 302: previous definition of 'RsCertificate'.
+./turtle/rsturtleitem.h:34: Warning 302: Identifier 'RsTurtleItem' redefined (ignored),
+turtle/rsturtleitem.h:34: Warning 302: previous definition of 'RsTurtleItem'.
+./turtle/rsturtleitem.h:50: Warning 302: Identifier 'RsTurtleSearchResultItem' redefined (ignored),
+turtle/rsturtleitem.h:50: Warning 302: previous definition of 'RsTurtleSearchResultItem'.
+./turtle/rsturtleitem.h:71: Warning 302: Identifier 'RsTurtleSearchRequestItem' redefined (ignored),
+turtle/rsturtleitem.h:71: Warning 302: previous definition of 'RsTurtleSearchRequestItem'.
+./turtle/rsturtleitem.h:83: Warning 302: Identifier 'RsTurtleStringSearchRequestItem' redefined (ignored),
+turtle/rsturtleitem.h:83: Warning 302: previous definition of 'RsTurtleStringSearchRequestItem'.
+./turtle/rsturtleitem.h:100: Warning 302: Identifier 'RsTurtleRegExpSearchRequestItem' redefined (ignored),
+turtle/rsturtleitem.h:100: Warning 302: previous definition of 'RsTurtleRegExpSearchRequestItem'.
+./turtle/rsturtleitem.h:121: Warning 302: Identifier 'RsTurtleOpenTunnelItem' redefined (ignored),
+turtle/rsturtleitem.h:121: Warning 302: previous definition of 'RsTurtleOpenTunnelItem'.
+./turtle/rsturtleitem.h:139: Warning 302: Identifier 'RsTurtleTunnelOkItem' redefined (ignored),
+turtle/rsturtleitem.h:139: Warning 302: previous definition of 'RsTurtleTunnelOkItem'.
+./turtle/rsturtleitem.h:159: Warning 302: Identifier 'RsTurtleGenericTunnelItem' redefined (ignored),
+turtle/rsturtleitem.h:159: Warning 302: previous definition of 'RsTurtleGenericTunnelItem'.
+./turtle/rsturtleitem.h:197: Warning 302: Identifier 'RsTurtleGenericDataItem' redefined (ignored),
+turtle/rsturtleitem.h:197: Warning 302: previous definition of 'RsTurtleGenericDataItem'.
+./turtle/rsturtleitem.h:220: Warning 302: Identifier 'RsTurtleSerialiser' redefined (ignored),
+turtle/rsturtleitem.h:220: Warning 302: previous definition of 'RsTurtleSerialiser'.
+./turtle/turtleclientservice.h:42: Warning 302: Identifier 'RsTurtleClientService' redefined (ignored),
+turtle/turtleclientservice.h:42: Warning 302: previous definition of 'RsTurtleClientService'.
+./util/argstream.h:102: Warning 302: Identifier 'parameter' redefined (ignored),
+./util/argstream.h:91: Warning 302: previous definition of 'parameter'.
+./util/argstream.h:102: Warning 302: Identifier 'parameter' redefined (ignored),
+./util/argstream.h:91: Warning 302: previous definition of 'parameter'.
+./util/argstream.h:248: Warning 302: Identifier 'operator >>' redefined (ignored),
+./util/argstream.h:44: Warning 302: previous definition of 'operator >>'.
+./util/argstream.h:708: Warning 302: Identifier 'operator >>' redefined (ignored),
+./util/argstream.h:44: Warning 302: previous definition of 'operator >>'.
+./util/argstream.h:822: Warning 302: Identifier 'operator >>' redefined (ignored),
+./util/argstream.h:251: Warning 302: previous definition of 'operator >>'.
+./util/rsrandom.h:39: Warning 302: Identifier 'RSRandom' redefined (ignored),
+util/rsrandom.h:39: Warning 302: previous definition of 'RSRandom'.
+./util/rsid.h:38: Warning 302: Identifier 't_RsGenericIdType' redefined (ignored),
+util/rsid.h:38: Warning 302: previous definition of 't_RsGenericIdType'.
+./util/rsid.h:38: Warning 302: Identifier 't_RsGenericIdType' redefined (ignored),
+util/rsid.h:38: Warning 302: previous definition of 't_RsGenericIdType'.
+./util/smallobject.h:42: Warning 302: Identifier 'Chunk' redefined (ignored),
+util/smallobject.h:42: Warning 302: previous definition of 'Chunk'.
+./util/smallobject.h:57: Warning 302: Identifier 'FixedAllocator' redefined (ignored),
+util/smallobject.h:57: Warning 302: previous definition of 'FixedAllocator'.
+./util/smallobject.h:81: Warning 302: Identifier 'SmallObjectAllocator' redefined (ignored),
+util/smallobject.h:81: Warning 302: previous definition of 'SmallObjectAllocator'.
+./util/smallobject.h:102: Warning 350: operator new ignored
+./util/smallobject.h:103: Warning 351: operator delete ignored
+./util/smallobject.h:100: Warning 302: Identifier 'SmallObject' redefined (ignored),
+util/smallobject.h:100: Warning 302: previous definition of 'SmallObject'.
+retroshare/rsplugin.h:81: Warning 302: Identifier 'RsPlugInInterfaces' redefined (ignored),
+./retroshare/rsplugin.h:81: Warning 302: previous definition of 'RsPlugInInterfaces'.
+retroshare/rsplugin.h:92: Warning 302: Identifier 'RsPlugin' redefined (ignored),
+./retroshare/rsplugin.h:92: Warning 302: previous definition of 'RsPlugin'.
+retroshare/rsplugin.h:167: Warning 302: Identifier 'RsPluginHandler' redefined (ignored),
+./retroshare/rsplugin.h:167: Warning 302: previous definition of 'RsPluginHandler'.
+plugins/pluginmanager.h:14: Warning 302: Identifier 'PluginInfo' redefined (ignored),
+./plugins/pluginmanager.h:14: Warning 302: previous definition of 'PluginInfo'.
+plugins/pluginmanager.h:39: Warning 302: Identifier 'RsPluginManager' redefined (ignored),
+./plugins/pluginmanager.h:39: Warning 302: previous definition of 'RsPluginManager'.
+./tests/network_simulator/Network.h:77: Warning 401: Nothing known about base class 'Graph< PeerNode >'. Ignored.
+./tests/network_simulator/Network.h:77: Warning 401: Maybe you forgot to instantiate 'Graph< PeerNode >' using %template.
+retroshare/rsexpr.h:215: Warning 401: Nothing known about base class 'std::binary_function< char,char,bool >'. Ignored.
+retroshare/rsexpr.h:215: Warning 401: Maybe you forgot to instantiate 'std::binary_function< char,char,bool >' using %template.
+retroshare/rsexpr.h:287: Warning 401: Nothing known about base class 'RelExpression< int >'. Ignored.
+retroshare/rsexpr.h:287: Warning 401: Maybe you forgot to instantiate 'RelExpression< int >' using %template.
+retroshare/rsexpr.h:302: Warning 401: Nothing known about base class 'RelExpression< int >'. Ignored.
+retroshare/rsexpr.h:302: Warning 401: Maybe you forgot to instantiate 'RelExpression< int >' using %template.
+retroshare/rsexpr.h:317: Warning 401: Nothing known about base class 'RelExpression< int >'. Ignored.
+retroshare/rsexpr.h:317: Warning 401: Maybe you forgot to instantiate 'RelExpression< int >' using %template.
+retroshare/rsexpr.h:331: Warning 401: Nothing known about base class 'RelExpression< int >'. Ignored.
+retroshare/rsexpr.h:331: Warning 401: Maybe you forgot to instantiate 'RelExpression< int >' using %template.
+tcponudp/udppeer.h:49: Warning 401: Nothing known about base class 'UdpSubReceiver'. Ignored.
+./tests/tcponudp/udptestfn.h:35: Warning 401: Nothing known about base class 'UdpReceiver'. Ignored.
+retroshare/rspostedVEG.h:116: Warning 401: Nothing known about base class 'RsTokenServiceVEG'. Ignored.
+./rsserver/p3rank.h:32: Warning 401: Nothing known about base class 'RsRanks'. Ignored.
+./tcponudp/udprelay.h:126: Warning 401: Nothing known about base class 'UdpSubReceiver'. Ignored.
+./tcponudp/udpstunner.h:71: Warning 401: Nothing known about base class 'UdpSubReceiver'. Ignored.
+retroshare/rsgxsifacetypes.h:53: Warning 503: Can't wrap 'operator =' unless renamed to a valid identifier.
+retroshare/rsgxsifacetypes.h:99: Warning 503: Can't wrap 'operator =' unless renamed to a valid identifier.
+util/rsnet.h:72: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+serialiser/rstlvtypes.h:69: Warning 503: Can't wrap 'operator =' unless renamed to a valid identifier.
+pqi/pqi_base.h:383: Warning 813: Warning for NetBinInterface proxy: Base BinInterface ignored. Multiple inheritance is not supported in Java.
+retroshare/rstypes.h:72: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+retroshare/rstypes.h:73: Warning 503: Can't wrap 'operator <' unless renamed to a valid identifier.
+retroshare/rstypes.h:217: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rstypes.h:340: Warning 503: Can't wrap 'operator []' unless renamed to a valid identifier.
+serialiser/rsgxsitems.h:35: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+serialiser/rsgxsitems.h:36: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+gxs/rsgxsdata.h:47: Warning 503: Can't wrap 'operator =' unless renamed to a valid identifier.
+gxs/rsgxsdata.h:94: Warning 503: Can't wrap 'operator =' unless renamed to a valid identifier.
+services/p3service.h:129: Warning 813: Warning for p3ThreadedService proxy: Base RsThread ignored. Multiple inheritance is not supported in Java.
+gxs/rsgenexchange.h:112: Warning 813: Warning for RsGenExchange proxy: Base RsThread ignored. Multiple inheritance is not supported in Java.
+gxs/rsgenexchange.h:112: Warning 813: Warning for RsGenExchange proxy: Base RsGxsIface ignored. Multiple inheritance is not supported in Java.
+retroshare/rsidentity.h:130: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsidentity.h:131: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./gxs/rsgixs.h:190: Warning 813: Warning for RsGxsIdExchange proxy: Base RsGixsReputation ignored. Multiple inheritance is not supported in Java.
+./gxs/rsgixs.h:190: Warning 813: Warning for RsGxsIdExchange proxy: Base RsGixs ignored. Multiple inheritance is not supported in Java.
+./gxs/rsgixs.h:219: Warning 813: Warning for RsGxsCircleExchange proxy: Base RsGcxs ignored. Multiple inheritance is not supported in Java.
+./gxs/rsgroups.h:140: Warning 813: Warning for p3GroupManagement proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./gxs/rsgxsnetservice.h:63: Warning 813: Warning for RsGxsNetService proxy: Base p3ThreadedService ignored. Multiple inheritance is not supported in Java.
+./gxs/rsgxsnetservice.h:63: Warning 813: Warning for RsGxsNetService proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+dbase/cachestrapper.h:83: Warning 503: Can't wrap 'operator <' unless renamed to a valid identifier.
+dbase/cachestrapper.h:105: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+dbase/cachestrapper.h:378: Warning 503: Can't wrap 'operator <' unless renamed to a valid identifier.
+dbase/cachestrapper.h:388: Warning 813: Warning for CacheStrapper proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./distrib/p3distrib.h:185: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./distrib/p3distrib.h:260: Warning 813: Warning for p3GroupDistrib proxy: Base CacheStore ignored. Multiple inheritance is not supported in Java.
+./distrib/p3distrib.h:260: Warning 813: Warning for p3GroupDistrib proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./distrib/p3distrib.h:260: Warning 813: Warning for p3GroupDistrib proxy: Base p3ThreadedService ignored. Multiple inheritance is not supported in Java.
+retroshare/rspeers.h:263: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+pqi/p3peermgr.h:209: Warning 813: Warning for p3PeerMgrIMPL proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./zeroconf/p3zeroconf.h:147: Warning 813: Warning for p3ZeroConf proxy: Base pqiNetListener ignored. Multiple inheritance is not supported in Java.
+pqi/authssl.h:165: Warning 813: Warning for AuthSSLimpl proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./pqi/p3dhtmgr.h:96: Warning 813: Warning for p3DhtMgr proxy: Base RsThread ignored. Multiple inheritance is not supported in Java.
+pqi/authgpg.h:107: Warning 813: Warning for AuthGPG proxy: Base RsThread ignored. Multiple inheritance is not supported in Java.
+pqi/authgpg.h:107: Warning 813: Warning for AuthGPG proxy: Base PGPHandler ignored. Multiple inheritance is not supported in Java.
+pqi/pqiqosstreamer.h:32: Warning 813: Warning for pqiQoSstreamer proxy: Base pqiQoS ignored. Multiple inheritance is not supported in Java.
+./pqi/pqiperson.h:50: Warning 813: Warning for pqiconnect proxy: Base NetInterface ignored. Multiple inheritance is not supported in Java.
+./pqi/p3notify.h:66: Warning 813: Warning for p3Notify proxy: Base pqiNotify ignored. Multiple inheritance is not supported in Java.
+pqi/pqipersongrp.h:51: Warning 813: Warning for pqipersongrp proxy: Base pqiMonitor ignored. Multiple inheritance is not supported in Java.
+pqi/pqipersongrp.h:51: Warning 813: Warning for pqipersongrp proxy: Base p3ServiceServer ignored. Multiple inheritance is not supported in Java.
+pqi/pqipersongrp.h:51: Warning 813: Warning for pqipersongrp proxy: Base pqiNetListener ignored. Multiple inheritance is not supported in Java.
+services/p3tunnel.h:44: Warning 813: Warning for p3tunnel proxy: Base pqiMonitor ignored. Multiple inheritance is not supported in Java.
+./tests/gxs/common/data_support.h:7: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/data_support.h:8: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/support.h:69: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/support.h:70: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/support.h:71: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/support.h:72: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/support.h:73: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/support.h:74: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/support.h:75: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/support.h:76: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/support.h:77: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/common/support.h:78: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/gen_exchange/genexchangetester.h:8: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/gen_exchange/genexchangetester.h:9: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/gen_exchange/genexchangetester.h:10: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/gen_exchange/genexchangetester.h:12: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/gen_exchange/genexchangetester.h:13: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/gen_exchange/genexchangetester.h:14: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/data_service/rsdataservice_test.h:18: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/gxs/data_service/rsdataservice_test.h:19: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+ft/ftcontroller.h:116: Warning 813: Warning for ftController proxy: Base RsThread ignored. Multiple inheritance is not supported in Java.
+ft/ftcontroller.h:116: Warning 813: Warning for ftController proxy: Base pqiMonitor ignored. Multiple inheritance is not supported in Java.
+ft/ftcontroller.h:116: Warning 813: Warning for ftController proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+turtle/p3turtle.h:217: Warning 813: Warning for p3turtle proxy: Base RsTurtle ignored. Multiple inheritance is not supported in Java.
+turtle/p3turtle.h:217: Warning 813: Warning for p3turtle proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+retroshare/rsforums.h:112: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsforums.h:113: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsforums.h:114: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+services/p3forums.h:36: Warning 813: Warning for p3Forums proxy: Base RsForums ignored. Multiple inheritance is not supported in Java.
+serialiser/rsmsgitems.h:144: Warning 813: Warning for RsChatLobbyMsgItem proxy: Base RsChatLobbyBouncingObject ignored. Multiple inheritance is not supported in Java.
+serialiser/rsmsgitems.h:162: Warning 813: Warning for RsChatLobbyEventItem proxy: Base RsChatLobbyBouncingObject ignored. Multiple inheritance is not supported in Java.
+retroshare/rsexpr.h:220: Warning 503: Can't wrap 'operator ()' unless renamed to a valid identifier.
+retroshare/rsmsgs.h:234: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsmsgs.h:235: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsmsgs.h:237: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+services/p3chatservice.h:52: Warning 813: Warning for p3ChatService proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+services/p3chatservice.h:52: Warning 813: Warning for p3ChatService proxy: Base pqiMonitor ignored. Multiple inheritance is not supported in Java.
+services/p3chatservice.h:52: Warning 813: Warning for p3ChatService proxy: Base RsTurtleClientService ignored. Multiple inheritance is not supported in Java.
+services/p3chatservice.h:392: Warning 503: Can't wrap class p3ChatService::StateStringInfo unless renamed to a valid identifier.
+./tests/serialiser/distribitem_test.h:44: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/distribitem_test.h:45: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/distribitem_test.h:46: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/distribitem_test.h:47: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/distribitem_test.h:48: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/distribitem_test.h:49: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/distribitem_test.h:50: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsphotoitem_test.h:37: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsphotoitem_test.h:38: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsphotoitem_test.h:39: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsnxsitems_test.h:7: Warning 516: Overloaded method init_item(RsNxsGrp &) ignored,
+./tests/gxs/common/data_support.h:10: Warning 516: using init_item(RsNxsGrp &) instead.
+./tests/serialiser/rsnxsitems_test.h:8: Warning 516: Overloaded method init_item(RsNxsMsg &) ignored,
+./tests/gxs/common/data_support.h:11: Warning 516: using init_item(RsNxsMsg &) instead.
+./tests/serialiser/rsnxsitems_test.h:17: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsnxsitems_test.h:18: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsnxsitems_test.h:19: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsnxsitems_test.h:20: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsnxsitems_test.h:21: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsconfigitem_test.h:40: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsconfigitem_test.h:41: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsconfigitem_test.h:42: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsconfigitem_test.h:43: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsconfigitem_test.h:44: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsconfigitem_test.h:45: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsconfigitem_test.h:48: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsconfigitem_test.h:50: Warning 503: Can't wrap 'operator !=' unless renamed to a valid identifier.
+./tests/serialiser/rsconfigitem_test.h:51: Warning 503: Can't wrap 'operator !=' unless renamed to a valid identifier.
+./tests/serialiser/rsconfigitem_test.h:53: Warning 503: Can't wrap 'operator !=' unless renamed to a valid identifier.
+./tests/serialiser/rsmsgitem_test.h:42: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsmsgitem_test.h:43: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsmsgitem_test.h:44: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsmsgitem_test.h:45: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsmsgitem_test.h:46: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsmsgitem_test.h:47: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsmsgitem_test.h:48: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+./tests/serialiser/rsstatusitem_test.h:33: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+tcponudp/rsudpstack.h:41: Warning 504: Function UdpStack::rsUdpStack(int,sockaddr_in &) must have a return type. Ignored.
+tcponudp/rsudpstack.h:56: Warning 813: Warning for rsUdpStack proxy: Base pqiNetListener ignored. Multiple inheritance is not supported in Java.
+tcponudp/rsudpstack.h:77: Warning 813: Warning for rsFixedUdpStack proxy: Base pqiNetListener ignored. Multiple inheritance is not supported in Java.
+retroshare/rsgxscommon.h:51: Warning 503: Can't wrap 'operator =' unless renamed to a valid identifier.
+retroshare/rsposted.h:68: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsposted.h:69: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsposted.h:73: Warning 813: Warning for RsPosted proxy: Base RsGxsCommentService ignored. Multiple inheritance is not supported in Java.
+./services/p3posted.h:74: Warning 813: Warning for p3Posted proxy: Base RsPosted ignored. Multiple inheritance is not supported in Java.
+./services/p3posted.h:74: Warning 813: Warning for p3Posted proxy: Base GxsTokenQueue ignored. Multiple inheritance is not supported in Java.
+./services/p3posted.h:74: Warning 813: Warning for p3Posted proxy: Base RsTickEvent ignored. Multiple inheritance is not supported in Java.
+./services/p3msgservice.h:51: Warning 813: Warning for p3MsgService proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./services/p3msgservice.h:51: Warning 813: Warning for p3MsgService proxy: Base pqiMonitor ignored. Multiple inheritance is not supported in Java.
+./services/p3msgservice.h:51: Warning 813: Warning for p3MsgService proxy: Base RsTurtleClientService ignored. Multiple inheritance is not supported in Java.
+retroshare/rsphoto.h:164: Warning 503: Can't wrap 'operator =' unless renamed to a valid identifier.
+retroshare/rsphoto.h:172: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsphoto.h:173: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./services/p3photoservice.h:33: Warning 813: Warning for p3PhotoService proxy: Base RsGenExchange ignored. Multiple inheritance is not supported in Java.
+retroshare/rspostedVEG.h:112: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rspostedVEG.h:113: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./services/p3postedVEG.h:64: Warning 813: Warning for p3PostedServiceVEG proxy: Base RsPostedVEG ignored. Multiple inheritance is not supported in Java.
+./services/p3bwctrl.h:73: Warning 813: Warning for p3BandwidthControl proxy: Base pqiMonitor ignored. Multiple inheritance is not supported in Java.
+retroshare/rswire.h:103: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rswire.h:104: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./services/p3wire.h:43: Warning 813: Warning for p3Wire proxy: Base RsWire ignored. Multiple inheritance is not supported in Java.
+./services/p3idservice.h:160: Warning 813: Warning for p3IdService proxy: Base RsIdentity ignored. Multiple inheritance is not supported in Java.
+./services/p3idservice.h:160: Warning 813: Warning for p3IdService proxy: Base GxsTokenQueue ignored. Multiple inheritance is not supported in Java.
+./services/p3idservice.h:160: Warning 813: Warning for p3IdService proxy: Base RsTickEvent ignored. Multiple inheritance is not supported in Java.
+retroshare/rsdsdv.h:88: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsdsdv.h:89: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsdsdv.h:90: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./services/p3dsdv.h:53: Warning 813: Warning for p3Dsdv proxy: Base p3Service ignored. Multiple inheritance is not supported in Java.
+./services/p3dsdv.h:53: Warning 813: Warning for p3Dsdv proxy: Base pqiMonitor ignored. Multiple inheritance is not supported in Java.
+./services/p3gamelauncher.h:77: Warning 813: Warning for p3GameLauncher proxy: Base RsGameLauncher ignored. Multiple inheritance is not supported in Java.
+./services/p3statusservice.h:48: Warning 813: Warning for p3StatusService proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./services/p3statusservice.h:48: Warning 813: Warning for p3StatusService proxy: Base pqiMonitor ignored. Multiple inheritance is not supported in Java.
+retroshare/rsblogs.h:92: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsblogs.h:93: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsblogs.h:94: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./services/p3blogs.h:41: Warning 813: Warning for p3Blogs proxy: Base RsBlogs ignored. Multiple inheritance is not supported in Java.
+retroshare/rsgxsforums.h:59: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsgxsforums.h:60: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./services/p3gxsforums.h:44: Warning 813: Warning for p3GxsForums proxy: Base RsGxsForums ignored. Multiple inheritance is not supported in Java.
+./services/p3gxsforums.h:44: Warning 813: Warning for p3GxsForums proxy: Base RsTickEvent ignored. Multiple inheritance is not supported in Java.
+./services/p3disc.h:81: Warning 813: Warning for p3disc proxy: Base pqiMonitor ignored. Multiple inheritance is not supported in Java.
+./services/p3disc.h:81: Warning 813: Warning for p3disc proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./services/p3disc.h:81: Warning 813: Warning for p3disc proxy: Base AuthGPGService ignored. Multiple inheritance is not supported in Java.
+retroshare/rsgxschannels.h:70: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsgxschannels.h:71: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rsgxschannels.h:74: Warning 813: Warning for RsGxsChannels proxy: Base RsGxsCommentService ignored. Multiple inheritance is not supported in Java.
+./services/p3gxschannels.h:59: Warning 813: Warning for p3GxsChannels proxy: Base RsGxsChannels ignored. Multiple inheritance is not supported in Java.
+./services/p3gxschannels.h:59: Warning 813: Warning for p3GxsChannels proxy: Base GxsTokenQueue ignored. Multiple inheritance is not supported in Java.
+./services/p3gxschannels.h:59: Warning 813: Warning for p3GxsChannels proxy: Base RsTickEvent ignored. Multiple inheritance is not supported in Java.
+retroshare/rswiki.h:111: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rswiki.h:112: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rswiki.h:113: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./services/p3wiki.h:45: Warning 813: Warning for p3Wiki proxy: Base RsWiki ignored. Multiple inheritance is not supported in Java.
+./services/p3wiki.h:45: Warning 813: Warning for p3Wiki proxy: Base RsTickEvent ignored. Multiple inheritance is not supported in Java.
+./services/p3gxscircles.h:133: Warning 813: Warning for p3GxsCircles proxy: Base RsGxsCircles ignored. Multiple inheritance is not supported in Java.
+./services/p3gxscircles.h:133: Warning 813: Warning for p3GxsCircles proxy: Base GxsTokenQueue ignored. Multiple inheritance is not supported in Java.
+./services/p3gxscircles.h:133: Warning 813: Warning for p3GxsCircles proxy: Base RsTickEvent ignored. Multiple inheritance is not supported in Java.
+./services/p3banlist.h:69: Warning 813: Warning for p3BanList proxy: Base pqiNetAssistPeerShare ignored. Multiple inheritance is not supported in Java.
+retroshare/rschannels.h:117: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rschannels.h:118: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+retroshare/rschannels.h:119: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./services/p3channels.h:48: Warning 813: Warning for p3Channels proxy: Base RsChannels ignored. Multiple inheritance is not supported in Java.
+dbase/findex.h:185: Warning 503: Can't wrap 'operator =' unless renamed to a valid identifier.
+./dbase/fimonitor.h:108: Warning 813: Warning for FileIndexMonitor proxy: Base RsThread ignored. Multiple inheritance is not supported in Java.
+./grouter/p3grouter.h:57: Warning 813: Warning for p3GRouter proxy: Base p3Service ignored. Multiple inheritance is not supported in Java.
+./grouter/p3grouter.h:57: Warning 813: Warning for p3GRouter proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+ft/ftserver.h:77: Warning 813: Warning for ftServer proxy: Base ftDataSend ignored. Multiple inheritance is not supported in Java.
+ft/ftserver.h:77: Warning 813: Warning for ftServer proxy: Base RsTurtleClientService ignored. Multiple inheritance is not supported in Java.
+ft/ftserver.h:77: Warning 813: Warning for ftServer proxy: Base RsThread ignored. Multiple inheritance is not supported in Java.
+./rsserver/p3face.h:80: Warning 813: Warning for RsServer proxy: Base RsThread ignored. Multiple inheritance is not supported in Java.
+./turtle/turtlestatistics.h:35: Warning 503: Can't wrap 'operator *' unless renamed to a valid identifier.
+./turtle/turtlestatistics.h:49: Warning 503: Can't wrap 'operator +' unless renamed to a valid identifier.
+./tcponudp/udprelay.h:47: Warning 503: Can't wrap 'operator <' unless renamed to a valid identifier.
+./tcponudp/udprelay.h:80: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./tcponudp/udprelay.h:81: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./tcponudp/udprelay.h:82: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./dht/p3bitdht.h:143: Warning 813: Warning for p3BitDht proxy: Base pqiNetAssistConnect ignored. Multiple inheritance is not supported in Java.
+./dht/p3bitdht.h:143: Warning 813: Warning for p3BitDht proxy: Base RsDht ignored. Multiple inheritance is not supported in Java.
+./ft/ftdbase.h:49: Warning 813: Warning for ftFiStore proxy: Base ftSearch ignored. Multiple inheritance is not supported in Java.
+./ft/ftdbase.h:59: Warning 813: Warning for ftFiMonitor proxy: Base ftSearch ignored. Multiple inheritance is not supported in Java.
+./ft/ftdbase.h:59: Warning 813: Warning for ftFiMonitor proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./ft/ftdbase.h:92: Warning 813: Warning for ftCacheStrapper proxy: Base ftSearch ignored. Multiple inheritance is not supported in Java.
+./ft/ftdatamultiplex.h:93: Warning 813: Warning for ftDataMultiplex proxy: Base RsQueueThread ignored. Multiple inheritance is not supported in Java.
+./ft/ftchunkmap.h:39: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+./ft/ftchunkmap.h:55: Error: 'Chunk' is multiply defined in the generated target language module.
+util/smallobject.h:42: Error: Previous declaration of 'Chunk'
+./ft/ftextralist.h:110: Warning 813: Warning for ftExtraList proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./ft/ftextralist.h:110: Warning 813: Warning for ftExtraList proxy: Base ftSearch ignored. Multiple inheritance is not supported in Java.
+./plugins/pluginmanager.h:39: Warning 813: Warning for RsPluginManager proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./plugins/rscacheservice.h:10: Warning 813: Warning for RsCacheService proxy: Base CacheStore ignored. Multiple inheritance is not supported in Java.
+./plugins/rscacheservice.h:10: Warning 813: Warning for RsCacheService proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./plugins/rspqiservice.h:10: Warning 813: Warning for RsPQIService proxy: Base p3Config ignored. Multiple inheritance is not supported in Java.
+./plugins/rspqiservice.h:10: Warning 518: Portability warning: File java/net/retroshare/GxsRequest.java will be overwritten by java/net/retroshare/gxsRequest.java on case insensitive filesystems such as Windows' FAT32 and NTFS unless the class/module name is renamed
+Processing types...
+C++ analysis...
+Generating wrappers...
